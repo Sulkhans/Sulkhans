@@ -1,6 +1,6 @@
 <h1 align="left"> 👋🏻 Hey, I'm Sulkhan  </h1>
 <div align="left">
-👦🏻 I'm 19 years old<br>🎓 Computer science student<br>🚧 Currently working on a Wordle clone<br>🧪 Learning TypeScript<br>💬 Open to collaborations<br>🎸 Love Rock & Hip-hop<br>🎮 The Last of Us, Resident Evil, Pokemon
+👦🏻 I'm 20 years old<br>🎓 Computer science student<br>🚧 Currently working on a CV maker<br>🧪 Learning Python<br>💬 Open to collaborations<br>🎸 Love Rock & Hip-hop
 </div>
 
 <h1/>
